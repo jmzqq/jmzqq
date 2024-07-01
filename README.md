@@ -1,7 +1,7 @@
-# Oi! Meu apelido é jm :)
+# Oi me chamo jm :)
 ## Sou um progamador iniciante
 
-🤓Estou estudando desenvolvimento de software no Senac!
+🤓Estou estudando desenvolvimento de software no SENAC!
 ##
 💻C#, JS, HTML
 
@@ -15,6 +15,5 @@
    
    
   
- ##<img align="center" alt="jm-linkedin" height="30" width="40" src="https://t.ctcdn.com.br/IwwDh-BajTE4ZwE4zuIcvz9Q2ZY=/i490027.jpeg">: https://www.linkedin.com/in/jo%C3%A3o-miguel-santos-vaz-b9b115314/
- email: joaomwguel@gmail.com
- discord: .jmzq 
+<a href = "mailto: joaomwguel@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href= "https://www.linkedin.com/in/jo%C3%A3o-miguel-santos-vaz-b9b115314/"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
