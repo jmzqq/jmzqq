@@ -3,9 +3,7 @@
 
 🤓Estou estudando desenvolvimento de software no SENAC!
 ##
-💻C#, JS, HTML
-
-## 👨🏾‍💻Estou aprendendo
+💻Aprendendo: C#, JS, HTML
 
 <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 
