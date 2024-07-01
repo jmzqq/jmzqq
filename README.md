@@ -1,5 +1,5 @@
 # Oi me chamo jm :)
-## Sou um progamador iniciante
+## Sou um dev iniciante
 
 🤓Estou estudando desenvolvimento de software no SENAC!
 ##
