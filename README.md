@@ -1,6 +1,6 @@
 ## Hi my nickname is jm!
 
-👨🏾‍💻beginner programmer
+👨🏾‍💻beginner developer
 ##
 💻C#, JS, HTML
 
